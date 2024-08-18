@@ -1,0 +1,35 @@
+
+.navbar-custom {
+    background-color: #1e2949; 
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link {
+    color: #ffffff; 
+}
+.navbar-custom .navbar-toggler-icon {
+    background-color: #ffffff; 
+}
+.navbar-custom .nav-link.active {
+    color: #000000; 
+}
+
+footer {
+    background-color: #1e2949; 
+    color: #ffffff; 
+    padding: 2px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: auto;
+    width: 100%;
+    
+}
+
+footer a {
+    color: #ffffff; 
+}
+footer a:hover {
+    color: #cccccc; 
+}
+
+
